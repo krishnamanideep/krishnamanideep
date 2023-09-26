@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnamanideep
 - 👀 I’m interested in Cloud computing,Artificial intelligence,Dynamic programming,App & Web Development,Data analysis,Entrepreneurship 
-- 🌱 I’m currently learning entrepreneurship,cloud computing
-- 💞️ I’m looking to collaborate on Full stack development , Business development , Cloud computing
+- 🌱 I’m currently learning Full Stack Development,cloud computing
+- 💞️ I’m looking to collaborate on Full stack development , Business development , Cloud computing, IoT solutions architect
 - 📫 How to reach me manideeplucky2003@gmail.com
 
 <!---
